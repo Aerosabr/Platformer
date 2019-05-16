@@ -95,6 +95,14 @@
             }
         },
         {
+            "Key": "3d63c959-3b8e-4a8e-b17c-78d4678786ac",
+            "Value": {
+                "id": "1006c692-1681-4876-9337-e5f93f389fab",
+                "resourcePath": "objects\\obj_bigenemy\\obj_bigenemy.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "50aaafd7-7854-4867-8f66-d691f93f203f",
             "Value": {
                 "id": "af6cce0d-1775-4e1f-8fee-c7c86ebfc227",
@@ -199,6 +207,14 @@
             }
         },
         {
+            "Key": "907cf1ef-866b-472f-be90-f1af35f8ae63",
+            "Value": {
+                "id": "3055d83b-fd5a-4a70-9dfe-5c6170a512e6",
+                "resourcePath": "sprites\\spr_trigger\\spr_trigger.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "93f6b808-d531-4d53-bca9-ea7fee71d8f4",
             "Value": {
                 "id": "1eda5c77-33d0-4be9-a450-0a7f6aa948a9",
@@ -228,6 +244,14 @@
                 "id": "a0cfda8b-a35d-4064-ae46-c6494138ed82",
                 "resourcePath": "views\\ab86e0a9-4617-43ee-9bab-8c52d1f5f7ac.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "af3e854a-7220-4ece-944a-4aadf5d36173",
+            "Value": {
+                "id": "2d0dea8c-e9e1-4cfb-88d4-7310df06a33c",
+                "resourcePath": "scripts\\ScreenShake\\ScreenShake.yy",
+                "resourceType": "GMScript"
             }
         },
         {
@@ -327,6 +351,14 @@
             }
         },
         {
+            "Key": "e0549361-7f33-40e9-9e90-63911a5753a6",
+            "Value": {
+                "id": "1ae721e2-92e9-459a-ba86-412ffec7b830",
+                "resourcePath": "objects\\obj_end\\obj_end.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "e4d1d7e4-ac56-43ae-bca2-1a20f5ed066d",
             "Value": {
                 "id": "1c51c7b5-50ba-4266-8fee-27fe55c8352b",
@@ -376,7 +408,8 @@
         }
     ],
     "script_order": [
-        "3a57ade6-6ccc-4284-8cad-fc6bb645eca3"
+        "3a57ade6-6ccc-4284-8cad-fc6bb645eca3",
+        "af3e854a-7220-4ece-944a-4aadf5d36173"
     ],
     "tutorial": ""
 }
