@@ -159,6 +159,48 @@
             "value": "1",
             "varName": "size",
             "varType": 0
+        },
+        {
+            "id": "56ff8a19-e48d-4310-8656-ea143d58c2f7",
+            "modelName": "GMObjectProperty",
+            "mvc": "1.0",
+            "listItems": null,
+            "multiselect": false,
+            "rangeEnabled": false,
+            "rangeMax": 10,
+            "rangeMin": 0,
+            "resourceFilter": 1023,
+            "value": "True",
+            "varName": "hasweapon",
+            "varType": 3
+        },
+        {
+            "id": "8a92034e-6b4a-4759-906a-3e7fe6ac9099",
+            "modelName": "GMObjectProperty",
+            "mvc": "1.0",
+            "listItems": null,
+            "multiselect": false,
+            "rangeEnabled": false,
+            "rangeMax": 10,
+            "rangeMin": 0,
+            "resourceFilter": 1023,
+            "value": "True",
+            "varName": "afraidofheights",
+            "varType": 3
+        },
+        {
+            "id": "634f39a6-b872-4171-87bc-e6374ad73dd5",
+            "modelName": "GMObjectProperty",
+            "mvc": "1.0",
+            "listItems": null,
+            "multiselect": false,
+            "rangeEnabled": false,
+            "rangeMax": 10,
+            "rangeMin": 0,
+            "resourceFilter": 1023,
+            "value": "0",
+            "varName": "grounded",
+            "varType": 3
         }
     ],
     "solid": false,
