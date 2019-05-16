@@ -2,7 +2,7 @@
     "id": "b9cc8d45-b4a5-42c6-beb1-8984e2a14971",
     "modelName": "GMSprite",
     "mvc": "1.12",
-    "name": "spr_bow1",
+    "name": "spr_wand",
     "For3D": false,
     "HTile": false,
     "VTile": false,

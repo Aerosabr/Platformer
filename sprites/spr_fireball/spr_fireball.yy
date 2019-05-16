@@ -2,7 +2,7 @@
     "id": "122bac92-4ef7-4cc7-8d04-081f1f52a92a",
     "modelName": "GMSprite",
     "mvc": "1.12",
-    "name": "spr_arrow1",
+    "name": "spr_fireball",
     "For3D": false,
     "HTile": false,
     "VTile": false,

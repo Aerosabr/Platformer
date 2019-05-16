@@ -10,7 +10,7 @@ if(mouse_check_button(mb_left)) && (firingdelay < 0)
 {
 	recoil = 4;
 	firingdelay = 10;
-	with (instance_create_layer(x,y,"Projectile",obj_arrow))
+	with (instance_create_layer(x,y,"Projectile",obj_fireball))
 	{
 		speed = global.spd;
 		direction = other.image_angle + random_range(-7,7);

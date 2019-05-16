@@ -398,13 +398,14 @@
         "e6407cfb-9712-47cc-9fcc-9f7ed2ed3f47",
         "eb36330c-786b-40d2-b954-def44530a2f4",
         "93cdcf94-23b0-485e-8c40-a4d7431c93b4",
-        "ed017a1e-5ce7-459d-b2f0-e1a0a631edec"
+        "344df126-581b-42b5-bd76-cf6e0344ee90",
+        "43ae9314-8068-49bd-af49-c32e268902fd"
     ],
     "IsDnD": false,
     "layers": [
         {
             "__type": "GMRInstanceLayer_Model:#YoYoStudio.MVCFormat",
-            "name": "Arrow",
+            "name": "Projectile",
             "id": "a1e0673d-3e84-4a8f-8fe2-0506920d6a33",
             "depth": 0,
             "grid_x": 32,
@@ -430,7 +431,7 @@
         },
         {
             "__type": "GMRInstanceLayer_Model:#YoYoStudio.MVCFormat",
-            "name": "Bow",
+            "name": "Weapon",
             "id": "325c8721-6930-4cd0-b2c9-350b73860100",
             "depth": 100,
             "grid_x": 32,
@@ -442,7 +443,8 @@
             "inheritSubLayers": false,
             "inheritVisibility": false,
             "instances": [
-{"name": "inst_6EF43C9D","id": "ed017a1e-5ce7-459d-b2f0-e1a0a631edec","colour": { "Value": 4294967295 },"creationCodeFile": "","creationCodeType": "","ignore": false,"inheritCode": false,"inheritItemSettings": false,"IsDnD": false,"m_originalParentID": "00000000-0000-0000-0000-000000000000","m_serialiseFrozen": false,"modelName": "GMRInstance","name_with_no_file_rename": "inst_6EF43C9D","objId": "fdd3bd6a-f095-4745-b09d-cea5c83526b3","properties": null,"rotation": 0,"scaleX": 1,"scaleY": 1,"mvc": "1.0","x": 64,"y": 576}
+{"name": "inst_6621662E","id": "344df126-581b-42b5-bd76-cf6e0344ee90","colour": { "Value": 4294967295 },"creationCodeFile": "","creationCodeType": "","ignore": false,"inheritCode": false,"inheritItemSettings": false,"IsDnD": false,"m_originalParentID": "00000000-0000-0000-0000-000000000000","m_serialiseFrozen": false,"modelName": "GMRInstance","name_with_no_file_rename": "inst_6621662E","objId": "fdd3bd6a-f095-4745-b09d-cea5c83526b3","properties": null,"rotation": 0,"scaleX": 1,"scaleY": 1,"mvc": "1.0","x": 96,"y": 544},
+{"name": "inst_1B7C83C4","id": "43ae9314-8068-49bd-af49-c32e268902fd","colour": { "Value": 4294967295 },"creationCodeFile": "","creationCodeType": "","ignore": false,"inheritCode": false,"inheritItemSettings": false,"IsDnD": false,"m_originalParentID": "00000000-0000-0000-0000-000000000000","m_serialiseFrozen": false,"modelName": "GMRInstance","name_with_no_file_rename": "inst_1B7C83C4","objId": "fcb3ed3d-e385-4f2a-8419-d8bec6fd0e17","properties": null,"rotation": 0,"scaleX": 1,"scaleY": 1,"mvc": "1.0","x": 96,"y": 544}
             ],
             "layers": [
 
