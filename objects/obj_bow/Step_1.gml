@@ -8,8 +8,9 @@ firingdelay = firingdelay - 1;
 recoil = max(0,recoil - 1);
 if(mouse_check_button(mb_left)) && (firingdelay < 0)
 {
+	audio_play_sound(snd_bow,10,0);
 	recoil = 4;
-	firingdelay = 10;
+	firingdelay = 20;
 	with (instance_create_layer(x,y,"Projectile",obj_arrow))
 	{
 		speed = global.spd;
